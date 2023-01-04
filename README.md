@@ -4,11 +4,11 @@ I am student of Applied Informatics and Measurement Systems at Wroclaw Universit
 - 🌊 Deep Learning
 - 🇨🇳 Learning Chinese
 #### My most promising projects 🤩:
-Taekwondo-Encyclopedia[Flutter] - https://github.com/alphatra/Taekwondo-Encyclopedia
-Taekwondo-Organiser[Svelte] -  https://github.com/alphatra/Taekwondo-Organiser
+Taekwondo-Encyclopedia[Flutter] - [https://github.com/alphatra/Taekwondo-Encyclopedia](https://github.com/alphatra/Taekwondo-Encyclopedia)
+Taekwondo-Organiser[Svelte] -  [https://github.com/alphatra/Taekwondo-Organiser](https://github.com/alphatra/Taekwondo-Organiser)
 Taekwondo-Organiser[Angular] -  [https://github.com/alphatra/Taekwondo-Organiser](https://github.com/alphatra/Taekwondo-Organiser-Angular)
-Calculator[React] - https://github.com/alphatra/Calculator_React
-Trash-map[Svelte] - https://github.com/PointerPPKN/hackyeah2022
+Calculator[React] - [https://github.com/alphatra/Calculator_React](https://github.com/alphatra/Calculator_React)
+Trash-map[Svelte] - [https://github.com/PointerPPKN/hackyeah2022](https://github.com/PointerPPKN/hackyeah2022)
 
 #### Contact with me 😎
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gracjan-ziemia%C5%84ski-321838156)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/alpphatra/)<br>

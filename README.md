@@ -1,7 +1,10 @@
 ### Hello World 🤩🤪🤌
 I am student of Applied Informatics and Measurement Systems at Wroclaw University - 👨‍🎓 I have experience in Svelte, PHP, MySQL, Firebase, GraphQL, Flutter, Python, C++, Figma
 #### Currently I'am learning 🤓:
-- 🌊 Deep Learning
+- 🌊 Deep Learning in Python
+- 🤖 Kotlin
+-  ⚡ Solana
+- 🐍 Mastering Python
 - 🇨🇳 Learning Chinese
 #### My most promising projects 🤩:
 Taekwondo-Encyclopedia[Flutter] - [https://github.com/alphatra/Taekwondo-Encyclopedia](https://github.com/alphatra/Taekwondo-Encyclopedia)\
